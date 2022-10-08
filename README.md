@@ -1,1 +1,1 @@
-# VidhyaAndroidProject
+# VaidhyaAndroidProject
