@@ -1,10 +1,10 @@
-package com.mhutshow.daktarlagbe.controller;
+package com.ensias.healthcareapp;
 
 import android.os.Bundle;
 
-import com.mhutshow.daktarlagbe.R;
-import com.mhutshow.daktarlagbe.model.adapter.PatientAppointmentsAdapter;
-import com.mhutshow.daktarlagbe.model.ApointementInformation;
+import com.ensias.healthcareapp.adapter.ConfirmedAppointmentsAdapter;
+import com.ensias.healthcareapp.adapter.PatientAppointmentsAdapter;
+import com.ensias.healthcareapp.model.ApointementInformation;
 import com.firebase.ui.firestore.FirestoreRecyclerOptions;
 import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.firestore.CollectionReference;
