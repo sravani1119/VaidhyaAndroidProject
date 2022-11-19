@@ -15,6 +15,48 @@ Healthcare brand loyalty is declining as today's healthcare consumers demand gre
 ## Introduction
 When patients have the option of booking or requesting an appointment online, they can do so whenever it is convenient for them — without having to call your front desk or scheduler during business hours or play phone tag. When your phone line is busy or your office is closed, online scheduling can help you convert android application visitors into new patients. and you can easliy search for an doctor appointment with in your place with the help of our Vaidhya application.
 
+## Activities:
+
+## Sign up page:
+
+In this activity every patient or doctor should create an account before logging into the application. 
+
+## Login page: 
+
+At this level the patient/doctor should login to their account which they have created in the previous activity.
+
+## Home page for patient:
+
+After logging into the account in the patient home page we can see some activities like search, medical folder, my doctors, profile, appointment and sign out.
+
+## Search: 
+
+We can use this search bar to find the doctor related to our consultation.
+
+## Medical Folder: 
+
+It will show all the previous doctor consultation and hospitalization history of that patient.
+
+## My doctors: 
+
+This will show all the doctors’ list with basic information that he/she visited.
+
+## Profile: 
+
+Here patients can see their own profile information and they can also edit the contact details if there is any necessary.
+
+## Appointment: 
+
+This will show all the appointments list that we made with the doctors whether it’s refused or accepted.
+
+## Sign out: 
+
+We can go back to the login page by clicking on sign out once we are done with the appointment or any information update. 
+
+## Home page for doctor:
+
+After logging into the account in the doctor home page we can see some activities like my patients, request, profile, appointment, my calender and sign out.
+
 
 ## Catchy Name
 
@@ -59,6 +101,14 @@ All devices from API Level 16
 
 Firebase authentication
 and realTime database
+
+## Problems Faced
+
+->Login or account related issues.
+
+->When appointment slots are filled users/patients can not book an appointments.
+
+->Doctor’s availability identification via online itself.
 
 
 
