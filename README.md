@@ -56,11 +56,14 @@ and realTime database
 ## Technical Stack
 
 -> Android: java, Xml
+
 -> Server: Firebase cloud messaging
+
 -> Backend: Firebase cloud messaging backend provided by google
 
 
 
 ## Future Improvements
 1) Implement pop up notifications for the Patients like appointement is accepted or declined by the doctor.
+
 2) Implement the near by pharmacies it will easy for paitents to find the pharmacies.
