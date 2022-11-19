@@ -40,11 +40,11 @@ All devices from API Level 16
 
 ## Advantages:
 
-1. Patients choose practices that offer online scheduling
-2. Patients can schedule on their own terms
-3. Online patient scheduling helps fill appointments gaps
-4. Online scheduling reduces burdensome administrative tasks for staff
-5. Online scheduling allows staff to deliver a better patient experience
+1. Patients choose practices that offer online scheduling.
+2. Patients can schedule on their own terms.
+3. Online patient scheduling helps fill appointments gaps.
+4. Online scheduling reduces burdensome administrative tasks for staff.
+5. Online scheduling allows staff to deliver a better patient experience.
 
 
 ## API/Libraries Used:
