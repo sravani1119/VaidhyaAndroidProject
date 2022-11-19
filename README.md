@@ -15,23 +15,31 @@ Healthcare brand loyalty is declining as today's healthcare consumers demand gre
 ## Introduction
 When patients have the option of booking or requesting an appointment online, they can do so whenever it is convenient for them — without having to call your front desk or scheduler during business hours or play phone tag. When your phone line is busy or your office is closed, online scheduling can help you convert android application visitors into new patients. and you can easliy search for an doctor appointment with in your place with the help of our Vaidhya application.
 
-Test Credentials:
 
-Patient Login
+## Catchy Name
+
+HealthTap
+
+## Test Credentials:
+
+## Patient Login
 
 UserName:amigo@patient.com
 
 Password:admin@123
 
-Doctor Login
+## Doctor Login
 
 UserName:doctor@kims.com	
 
 Password:admin@123
 
-Supported Devices:All devices from API Level 16
+## Supported Devices:
 
-Advantages:
+All devices from API Level 16
+
+## Advantages:
+
 1. Patients choose practices that offer online scheduling
 2. Patients can schedule on their own terms
 3. Online patient scheduling helps fill appointments gaps
@@ -39,6 +47,20 @@ Advantages:
 5. Online scheduling allows staff to deliver a better patient experience
 
 
-API/Libraries Used:
+## API/Libraries Used:
+
 Firebase authentication
 and realTime database
+
+
+## Technical Stack
+
+-> Android: java, Xml
+-> Server: Firebase cloud messaging
+-> Backend: Firebase cloud messaging backend provided by google
+
+
+
+## Future Improvements
+1) Implement pop up notifications for the Patients like appointement is accepted or declined by the doctor.
+2) Implement the near by pharmacies it will easy for paitents to find the pharmacies.
