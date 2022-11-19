@@ -39,4 +39,4 @@ Advantages:
 
 API/Libraries Used:
 Firebase authentication
-And realTime database
+and realTime database
