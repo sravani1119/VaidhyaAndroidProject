@@ -3,7 +3,7 @@
 ### Team Members
 Zabheen Shaik
 
-Ramya Jasthi
+Ramya Sri Jasthi
 
 Sravani Nalla
 
