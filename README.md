@@ -20,11 +20,13 @@ Test Credentials:
 Patient Login
 
 UserName:amigo@patient.com
+
 Password:admin@123
 
 Doctor Login
 
-UserName:doctor@kims.com		
+UserName:doctor@kims.com	
+
 Password:admin@123
 
 Supported Devices:All devices from API Level 16
