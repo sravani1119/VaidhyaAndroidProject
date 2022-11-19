@@ -20,6 +20,14 @@ When patients have the option of booking or requesting an appointment online, th
 
 HealthTap
 
+## Technical Stack
+
+-> Android: java, Xml
+
+-> Server: Firebase cloud messaging
+
+-> Backend: Firebase cloud messaging backend provided by google
+
 ## Test Credentials:
 
 ## Patient Login
@@ -51,15 +59,6 @@ All devices from API Level 16
 
 Firebase authentication
 and realTime database
-
-
-## Technical Stack
-
--> Android: java, Xml
-
--> Server: Firebase cloud messaging
-
--> Backend: Firebase cloud messaging backend provided by google
 
 
 
