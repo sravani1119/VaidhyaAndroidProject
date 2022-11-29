@@ -58,17 +58,7 @@ We can go back to the login page by clicking on sign out once we are done with t
 After logging into the account in the doctor home page we can see some activities like my patients, request, profile, appointment, my calender and sign out.
 
 
-## Catchy Name
 
-HealthTap
-
-## Technical Stack
-
--> Android: java, Xml
-
--> Server: Firebase cloud messaging
-
--> Backend: Firebase cloud messaging backend provided by google
 
 ## Test Credentials:
 
